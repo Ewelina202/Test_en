@@ -1,3 +1,3 @@
 # Test_en
 
-to jest wpis testowy, i dodano poprawke
+Projekt poświęcony testowaniu technologii gitworkflow w budowie kodu.  
